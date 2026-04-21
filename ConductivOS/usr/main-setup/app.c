@@ -6,7 +6,7 @@ int main() {
   printf("¡Hello World!");
 
   if (number == 2) {
-    print("\nSaludos");
+    printf("\nSaludos");
   }
 
   return 0;
